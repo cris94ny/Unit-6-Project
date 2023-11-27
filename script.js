@@ -232,7 +232,7 @@ $(".seaweed").click(function() {
 	$(".seaweed-ending").show();
 });
 
-$(".flee-button2").click(function() {
+$(".flee-button3").click(function() {
     $(".Part-Five-Yes").hide();
     $(".Part-Five-No").hide();
 	$(".flee-ending2").show();
